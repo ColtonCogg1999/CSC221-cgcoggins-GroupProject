@@ -11,5 +11,5 @@ This project is a web scraper designed to extract information from the Wikipedia
 Wikipedia - Nobel Laureates in Literature: [https://en.wikipedia.org/wiki/List_of_Nobel_laureates_in_Literature](https://en.wikipedia.org/wiki/List_of_Nobel_laureates_in_Literature)
 
 ## Collaborator:
-Name - James Cocco - ACCEPTED
-Wake Tech Email: jkcocco@my.waketech.edu
+Name - James Cocco 
+Wake Tech Email: jkcocco@my.waketech.edu - ACCEPTED
